@@ -71,7 +71,7 @@ end;
 
 procedure Form1.toolStripMenuItem16_Click(sender: Object; e: EventArgs);
 begin
-  MessageBox.Show($'Автор: Собиржон Матназаров (t.me/matnazaroff_s)','О программе')
+  MessageBox.Show($'Автор: Собиржон Матназаров (https://t.me/flynn_ryzen)','О программе')
 end;
 
 procedure Form1.toolStripMenuItem5_Click(sender: Object; e: EventArgs);
